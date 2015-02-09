@@ -16,7 +16,7 @@ namespace FriendScan
         public string FriendName { get; private set; }
 
         /// <summary>
-        /// A collection of blog URLs for teh friend.
+        /// A collection of blog URLs for the friend.
         /// </summary>
         public IReadOnlyCollection<string> BlogUrls { get; private set; }
 
