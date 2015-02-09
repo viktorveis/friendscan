@@ -7,8 +7,8 @@
     <ProjectGuid>{BEEA4346-CADC-4C9A-B804-F6CDAA8ECBD4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FreindScan</RootNamespace>
-    <AssemblyName>FreindScan</AssemblyName>
+    <RootNamespace>FriendScan</RootNamespace>
+    <AssemblyName>FriendScan</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
